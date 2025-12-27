@@ -39,16 +39,16 @@ This is a foundational project for building **event-driven** and **API-driven** 
 > All screenshots are in: **lambda-screenshots/**
 
 ### 1️⃣ Lambda Function Created
-![Function Created](lambda-screenshots/91.png)
+![Function Created](91.PNG)
 
 ### 2️⃣ Code Updated + Deployed
-![Code Updated](lambda-screenshots/92.png)
+![Code Updated](92.PNG)
 
-### 3️⃣ Test Event Success
-![Test Success](lambda-screenshots/93.png)
+### 3️⃣ Test Event Success Output
+![Test Success](93.PNG)
 
-### 4️⃣ CloudWatch Logs
-![Logs](lambda-screenshots/94.png)
+### 4️⃣ CloudWatch Execution Logs
+![Lambda Logs](94.PNG)
 
 ---
 
